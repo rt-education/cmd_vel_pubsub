@@ -64,7 +64,7 @@ ros2 run cmd_vel_pubsub cmd_vel_talker
 特に明記されていない場合は、Apache License, Version 2.0に基づき公開されています。  
 ライセンスの全文は[LICENSE](./LICENSE)または[https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0)から確認できます。
 
-## 謝辞
+### サードパーティのライセンス
 以下のリポジトリのファイルをベースに作成されています。
 
 * [ros2/examples at humble](https://github.com/ros2/examples/tree/humble)

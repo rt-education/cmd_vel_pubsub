@@ -47,6 +47,15 @@ ros2 run demo_nodes_cpp listener
 # Press [Ctrl-c] to terminate.
 ```
 
+### pubsub.launch.pyの実行
+
+```sh
+source ~/ros2_ws/install/setup.bash
+ros2 launch cmd_vel_pubsub pubsub.launch.py
+
+# Press [Ctrl-c] to terminate.
+```
+
 ### cmd_vel_talkerの実行
 
 ```sh
